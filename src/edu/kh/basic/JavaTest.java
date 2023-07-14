@@ -20,7 +20,7 @@ public class JavaTest {
 		
 		// ctrl+alt+방향키 : 작성한 방향으로 해당 줄 복사
 		System.out.println("Hello world!");
-		System.out.println("점심은 드셨나요?");
+		System.out.println("점심은 드셨나요?        ");
 		System.out.println("12345");
 
 		System.out.println("----------------------------");
