@@ -53,6 +53,8 @@ public class JavaTest {
 		// -> 문자열 + 숫자 or
 		//	  문자열 + 문자열 --> 이어쓰기
 		
+		System.out.println("테스트");
+		
 	}
 	
 }
