@@ -52,9 +52,6 @@ public class JavaTest {
 		// -> 숫자 + 숫자 = 덧셈 연산 결과
 		// -> 문자열 + 숫자 or
 		//	  문자열 + 문자열 --> 이어쓰기
-		
-		System.out.println("테스트");
-		
 	}
 	
 }
